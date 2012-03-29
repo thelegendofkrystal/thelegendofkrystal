@@ -1,7 +1,7 @@
 The Legend of Krystal
 =====================
 
-To revive and improve on the original work on the game, this github page is created.To ensure the openness of this project, The project will always be an open github repository.
+To revive and improve on the original work, this github page is created. To ensure the openness of this project, The project will always be an open github repository.
 
 The project will be hosted on a free hosting such as Heroku
 Everything will be available on the web employed with the newest HTML5 technology
